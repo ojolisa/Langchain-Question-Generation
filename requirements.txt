@@ -1,0 +1,4 @@
+longchain
+streamlit
+faiss-cpu
+pypdf2
