@@ -25,7 +25,6 @@ for i, page in enumerate(pdfreader.pages):
 # Setting the chunk size and overlap
 chunk_size = random.randint(200, 3000)
 chunk_overlap = chunk_size//10
-print(chunk_size, chunk_overlap)
 
 # Splitting the text into chunks
 text_splitter = CharacterTextSplitter(
