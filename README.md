@@ -30,3 +30,11 @@ The following Python libraries are required:
 - `pypdf2`: To read the pdf
 
 Ollama should be installed with the Llama2 model. The Ollama server should be running.
+
+## Steps
+
+1. **Step 1:** In the terminal, write `python -m venv venv`
+2. **Step 2:** In the terminal, write `.\venv\Scripts\activate` 
+3. **Step 3:** In the terminal, write `pip install -r requirements.txt`
+4. **Step 4:** Start the Ollama server
+5. **Step 5:** In the terminal write `streamlit run streamlit_app.py` 
