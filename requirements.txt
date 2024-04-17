@@ -1,4 +1,4 @@
-longchain
+langchain
 streamlit
 faiss-cpu
 pypdf2
